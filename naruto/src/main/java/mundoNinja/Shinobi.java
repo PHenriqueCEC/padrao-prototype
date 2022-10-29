@@ -42,7 +42,7 @@ public class Shinobi implements Cloneable {
     public String toString() {
         return
                 "Shinobi nome=" + nome +
-                        ", rank='" + rank + "'"+
+                        ", rank=" + rank +
                         ", atributos=" + atributos;
     }
 

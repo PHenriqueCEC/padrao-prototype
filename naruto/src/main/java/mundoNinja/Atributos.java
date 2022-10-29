@@ -45,7 +45,7 @@ public class Atributos implements Cloneable {
     public String toString() {
         return
                 " ninjutsu=" + ninjutsu + "," +
-                        "  genjutsu=" + genjutsu + "," +
+                        " genjutsu=" + genjutsu + "," +
                         " taijutsu=" + taijutsu ;
     }
 
